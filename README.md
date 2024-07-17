@@ -82,7 +82,7 @@ This is the main class of the project. It provides a command-line interface to i
 1. **Compile the Project:**
 
     ```bash
-    javac -cp lib/mysql-connector-java-8.0.29.jar src/main/java/com/bankingsystem/*.java -d out
+    javac -cp lib/mysql-connector-java-8.0.29.jar src/com/bankingsystem/*.java -d out
     ```
 
 2. **Run the Project:**
